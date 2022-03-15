@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding / travel / movie
 - 🌱 I’m currently learning go language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 eddyruan@139.com
 
 <!---
 eddyyuen/eddyyuen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
